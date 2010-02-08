@@ -1,0 +1,47 @@
+# NAME
+
+Dist::Joseki::Command::smoke - run smoke tests for your distribution
+
+# SYNOPSIS
+
+    # dist smoke
+
+# DESCRIPTION
+
+This command plugin for [Dist::Joseki](http://search.cpan.org/perldoc?Dist::Joseki) gives you a new command: `dist
+smoke` runs smoke tests for your distribution.
+
+# METHODS
+
+# BUGS AND LIMITATIONS
+
+No bugs have been reported.
+
+Please report any bugs or feature requests through the web interface at
+<http://rt.cpan.org>.
+
+# INSTALLATION
+
+See perlmodinstall for information and options on installing Perl modules.
+
+# AVAILABILITY
+
+The latest version of this module is available from the Comprehensive Perl
+Archive Network (CPAN). Visit <http://www.perl.com/CPAN/> to find a CPAN site
+near you. Or see <http://search.cpan.org/dist/Dist-Joseki-Command-smoke/>.
+
+The development version lives at
+<http://github.com/hanekomu/dist-joseki-command-smoke/>.  Instead of sending
+patches, please fork this project using the standard git and github
+infrastructure.
+
+# AUTHORS
+
+Marcel Gr&uuml;nauer, `<marcel@cpan.org>`
+
+# COPYRIGHT AND LICENSE
+
+Copyright 2010 by Marcel Gr&uuml;nauer
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
